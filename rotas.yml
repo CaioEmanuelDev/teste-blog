@@ -1,0 +1,4 @@
+/usuarios/:id get:
+  description: esta é uma rota que serve para fazer tal coisas
+  example: :id = 12
+  
